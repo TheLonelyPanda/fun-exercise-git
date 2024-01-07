@@ -1,2 +1,2 @@
 # Contributors
-- [Poom](poom@github.com)
+- [P2oom](p2oom@github.com)
